@@ -9,7 +9,7 @@ Handles multiple items in a single order.
 Displays order details before payment.
 How to Use
 Clone the repository
-git clone https://github.com/ashleylina/food-order-management-system.git
+git clone https://github.com/ashleylina/food-order-management-system-.git
 cd food-order-management-system
 
 Compile the program
