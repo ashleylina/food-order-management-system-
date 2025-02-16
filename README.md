@@ -19,9 +19,6 @@ Run the program
 ./food_order
 
 Example Usage
-vbnet
-Copy
-Edit
 ----- BUY MORE RM30 TO GET 20% DISCOUNT ------
 Menu:
 1. Cheeseburger (RM 10.00)
